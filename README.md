@@ -2,8 +2,9 @@
 
 ## 설치&실행 방법
 
-1. npm i
-2. npm start
+1. 터미널 에서 npm i
+2. 터미널 에서 npm start
+3. http://localhost:3000/ 실행
 
 ## 사용된 프레임워크
 
