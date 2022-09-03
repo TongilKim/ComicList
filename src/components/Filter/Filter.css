@@ -1,0 +1,13 @@
+.filterContainer {
+  margin-top: 15px;
+  border: 2.5px solid lightgray;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+.filterOption {
+  cursor: pointer;
+  border: 2.5px solid lightgray;
+  padding: 5px;
+  margin-right: 20px;
+}
